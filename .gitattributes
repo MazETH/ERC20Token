@@ -1,1 +1,1 @@
-*.gs linguist-language=Solidity
+*.js linguist-detectable=false
